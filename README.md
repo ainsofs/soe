@@ -1,4 +1,4 @@
-# State of Emergency delcared by the Independant State of Samoa
+# Samoa State of Emergency details
 
 This repo is a tool for keeping track of changes to the amendments. Click the commit tab to see a list of changes per date. Click on a commit to view the change between that version and the previous version.
 
